@@ -1,0 +1,15 @@
+[en]
+title = "My blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+[en.params]
+description = "Stay hungry Stay foolish"
+
+[zh]
+title = "我的博客"
+weight = 2
+LanguageName = "中"
+contentDir = "content/chinese" 
+[zh.params]
+description = "仙人抚我顶 结发受长生"

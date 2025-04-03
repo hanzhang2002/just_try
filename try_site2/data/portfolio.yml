@@ -1,0 +1,47 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    portfolioitem:
+      - name: Machine Learning Course Project
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/invierno0204/my_document/tree/main/ml_2022f
+        linktext: 'code'
+        description: 'Learned different algorithms including logistic regression and supported vector machine.'
+        tags:
+          - statistics
+          - ML
+        status: 'Finished'
+        start: '2022-09'
+        end: '2022-12'
+        authors:
+          - Zhang Han
+      - name: Bayes Analysis (Graduate-Level) Course Project
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/invierno0204/my_document/tree/main/project_1
+        linktext: 'code'
+        description: 'Working on terminal project on bayesian nonlinear regression model.'
+        tags:
+          - statistics
+          - bayseian
+        status: 'Finished'
+        start: '2022-09'
+        end: '2022-12'
+        authors:
+          - Zhang Han
+  # portfolio category
+  - title: Research
+    portfolioitem:
+      - name: High-Dimensional Statistics Seminar
+        image: '/images/portfolio/code.jpg'
+        description: '1. Prepared 20 percent content of basic knowledge of High-Dimensional Statistics and communicated with group members.
+
+                      2. Learned the concentration of measure by entropic and geometric techniques,metric entropy,sparse linear models in high dimensions, minimax lower bound, etc.'
+        tags:
+          - statistics
+          - teamwork
+        status: 'Finished'
+        start: '2022-09'
+        end: '2022-12'
+        authors:
+          - Zhang Han
+          - others
